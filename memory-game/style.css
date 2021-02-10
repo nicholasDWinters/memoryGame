@@ -1,0 +1,69 @@
+#game div {
+  border: 2px solid black;
+  width: 75px;
+  height: 75px;
+  margin: 10px;
+  display: inline-block;
+  border-radius: 25%;
+  
+}
+
+#game {
+align-content: center;
+padding-left: 10%;
+padding-right: 10%;
+
+}
+
+.container {
+  margin: 100px 100px;
+ 
+}
+
+.noClick {
+  pointer-events: none;
+}
+
+.hide {
+  display: none;
+  
+}
+
+.disable {
+  pointer-events: none;
+}
+
+#submit, #restart {
+  margin: 20px 20px;
+  padding: 10px;
+  border-radius: 10%;
+  font-size: 0.8rem;
+}
+
+span {
+  font-size: 25px;
+ 
+}
+
+input {
+  margin: 0 10px;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+form {
+  font-size: 2rem;
+
+}
+
+body {
+
+  background: no-repeat url('https://img.wallpapersafari.com/desktop/1920/1080/61/42/azUuM9.jpg');
+  align-content: center;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: rgba(236, 254, 255, 0.836);
+}
+
